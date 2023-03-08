@@ -1,0 +1,14 @@
+{
+  "editor.fontSize": 18,
+  "todohighlight.keywords": [
+    {
+      "text": "IMPORTANT:",
+      "color": "#120E43",
+      "backgroundColor": "#FF6666",
+      "overviewRulerColor": "black",
+      "isWholeLine": true,
+      "border": "2px dashed #CAD5E2",
+      "borderRadius": "4px"
+    }
+  ]
+}
